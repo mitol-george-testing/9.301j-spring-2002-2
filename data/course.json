@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "197799f2-cf23-194a-59a8-c6714e0c5aaf",
+      "a6b23d60-a9bb-0578-2fcd-32a53a6870d3",
+      "10590796-e304-96d0-81f9-8adaf9bf03eb",
+      "062eede9-d558-d787-73af-f8fdf6636dd9",
+      "6e6006b1-1e62-f7a7-606d-6050e56237cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Neural Plasticity in Learning and Development",
+  "course_description": "Roles of neural plasticity in learning and memory and in development of invertebrates and mammals. An in-depth critical analysis of current literature of molecular, cellular, genetic, electrophysiological, and behavioral studies. Discussion of original papers supplemented by introductory lectures.\n",
+  "department_numbers": [
+    "9",
+    "7"
+  ],
+  "extra_course_numbers": "7.98J",
+  "primary_course_number": "9.301J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
